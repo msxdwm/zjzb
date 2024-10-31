@@ -383,8 +383,9 @@ CHC动作电影,http://kxrj.site:998/123/mg.php?id=chcdz
 齐齐哈尔│克山综合,https://masterpull.hljtv.com/live/5810WOL5.m3u8
 齐齐哈尔│克东综合,https://masterpull.hljtv.com/live/PO1DiGiN.m3u8
 齐齐哈尔│讷河综合,https://masterpull.hljtv.com/live/PXWxDY1V.m3u8
-齐齐哈尔│甘南综合,https://masterpull.hljtv.com/live/YbFyF4Jb.m3u8
 齐齐哈尔│拜泉综合,https://masterpull.hljtv.com/live/zHtOXXUz.m3u8
+齐齐哈尔│甘南综合,https://masterpull.hljtv.com/live/YbFyF4Jb.m3u8
+齐齐哈尔│甘南│东阳综合,http://tvbox6.icu/tv/quklive.php?id=25
 
 牡丹江新闻综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226422/index.m3u8
 牡丹江│绥芬河综合,https://masterpull.hljtv.com/live/pXxFNIbi.m3u8
@@ -488,11 +489,12 @@ CHC动作电影,http://kxrj.site:998/123/mg.php?id=chcdz
 法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰中文,http://xubo0712.asuscomm.cn:9999/rtp/239.93.0.162:2192
+凤凰资讯,http://58.144.154.93:80/qctv.fengshows.cn/live/0701pin72.m3u8$凤凰秀
+凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
 凤凰资讯,
 凤凰资讯,
 凤凰资讯,
 凤凰资讯,http://122.224.232.218:8888/rtp/233.50.200.192:5140
-
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 香港开电视,https://live-hls-web-ajb.getaj.net/AJB/01.m3u8
@@ -500,6 +502,11 @@ CHC动作电影,http://kxrj.site:998/123/mg.php?id=chcdz
 中天娱乐,http://61.221.215.25:8800/hls/47/index.m3u8
 星光视界,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
 澳门莲花,http://php.jdshipin.com:8880/amlh.php
+翡翠台,http://cdn9.1689.us.kg/smt1.1.php?id=jade_twn
+华丽翡翠,http://cdn9.1689.us.kg/smt1.1.php?id=Tvbjade
+星河,http://cdn9.1689.us.kg/smt1.1.php?id=Xinhe
+千禧经典,http://cdn9.1689.us.kg/smt1.1.php?id=Tvbclassic
+ASTRO AOD,http://cdn9.1689.us.kg/smt1.1.php?id=Aodhd
 澳门卫视,
 亚洲武侠,http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
 八大戏剧,http://61.221.215.25:8800/hls/39/index.m3u8
